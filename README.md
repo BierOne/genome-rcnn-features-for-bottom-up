@@ -1,8 +1,9 @@
 # visual-genome-features-for-updown
 This repository supplies the visual-genome features of bottom-up-attention.
-The extraction follows the original code of peteanderson80([bottom-up-attention](https://github.com/peteanderson80/bottom-up-attention)) And I greatly appreciate the peteanderson80's code of bottom-up-attention!
+The extraction follows the original code of peteanderson80([bottom-up-attention](https://github.com/peteanderson80/bottom-up-attention)). Greatly appreciate this code!
 
-There's my [blog](https://blog.csdn.net/BierOne/article/details/103769431) about this work. Furthurmore, I would be glad if this work could help someone!  Criticism and advice are welcome!
+There's my [blog](https://blog.csdn.net/BierOne/article/details/103769431) about this work.
 
-Sadly, I did not find a suitable way to share the extracted image features due to many restrictions. So if anyone need this features file, pls directly send me the email toward lyibing112@gmail.com
+Thanks for xingyu's help, I have uploaded the features (10-100 objects features) in baiduNetDisk.
 
+  **Link: https://pan.baidu.com/s/12UGASDpYEXPR-hVCJLC2aw,  code: a10y**
